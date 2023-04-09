@@ -5,10 +5,10 @@ Sou um programador jr C# back-end, também desenvolvedor de jogos indie e criado
 Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até a publicação. O conteúdo no meu canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil inscritos.
 
 <p align="left">
-  <a href="https://www.youtube.com/c/Formatc2pontosBr?sub_confirmation=1">
+  <a href="https://www.youtube.com/c/formatc2pontosbr?sub_confirmation=1">
     <img alt="youtube inscritos" title="Inscreva-se no Meu Canal do YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
   </a>
-  <a href="https://www.youtube.com/c/Formatc2pontosBr">
+  <a href="https://www.youtube.com/c/formatc2pontosbr">
     <img alt="youtube visualizações" title="YouTube Visualizações" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/> 
   <a href="https://github.com/andrecomegno?tab=repositories">
     <img alt="total stars" title="Total stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrecomegno?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
