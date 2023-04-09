@@ -9,9 +9,9 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
     <img alt="youtube inscritos" title="Inscreva-se no Meu Canal do YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
   </a>
   <a href="https://www.youtube.com/c/Formatc2pontosBr">
-    <img alt="youtube visualizações" title="YouTube Visualizações" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>> 
+    <img alt="youtube visualizações" title="YouTube Visualizações" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/> 
   <a href="https://github.com/andrecomegno?tab=repositories">
-    <img alt="total stars" title="Total stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrecomegno?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/andrecomegno?tab=followers">
     <img alt="Seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/andrecomegno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
