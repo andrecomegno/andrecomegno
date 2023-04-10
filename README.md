@@ -37,5 +37,4 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 </br>
 
 #
-
 [youtube]: https://youtube.com/formatc2pontosbr
