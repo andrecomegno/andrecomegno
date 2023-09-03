@@ -20,22 +20,22 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 ---
 
 ### 👾 Linguagens e Ferramentas
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/3f860dd0-1506-4f8d-9a6c-cc9ac541fe17" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/bd0c8314-e12e-4287-ad63-ed761d736eb3" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/85bee746-e0ba-4ed1-b930-2986c18f47ea" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/8c33d2f8-23fb-49d3-acb6-a84cce945c01" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/8b92c586-13b2-4e05-ae2d-7f1f865317f2" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icon/csharp.png" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="icon/kotlin.png" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="icon/javascript.png" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="icon/css3.png" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="icon/html5.png" />
 
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/07878bc6-6f1f-4996-b0c4-fb0044e209db" />
-<img align="left" alt="blender" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/01c7a259-3bed-48b8-97b6-208d137784d7" />  
-<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/67b38fb3-acd5-495e-b666-b89df2b98935" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/93869277-5304-47a8-ae3b-6014d5a5a7d6" />
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/d644650a-b6f0-4103-80df-ccdc6ee04a39" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/c0d0435c-64c5-4913-b368-8a48a16c5799" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/ef8c1e54-971b-4efd-b60d-017d2b0d776b" />
-<img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/1cba29e9-3c72-4cd5-ab89-5612d5d5ada4" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/6215c53d-4219-455c-9106-875eb80ea4b4" />
-<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://github.com/andrecomegno/andrecomegno/assets/55299009/e3437e7b-3db0-48b7-957c-770ae94c8130" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="icon/unity.png" />
+<img align="left" alt="blender" width="30px" style="padding-right:10px;" src="icon/blender.png" />  
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="icon/visualstudio.png" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="icon/vscode.png" />
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="icon/wordpress.png" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="icon/mysql.png" />
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="icon/photoshop.png" />
+<img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="icon/illustrator.png" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="icon/linux.png" />
+<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="icon/androidstudio.png" />
 </br>
 
 #
