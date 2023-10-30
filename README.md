@@ -22,6 +22,7 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 ### 👾 Linguagens e Ferramentas
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icon/csharp.png" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="icon/kotlin.png" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="icon/react.png" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="icon/javascript.png" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="icon/css3.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="icon/html5.png" />
