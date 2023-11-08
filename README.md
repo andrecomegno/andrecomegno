@@ -29,6 +29,7 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="icon/javascript.png" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="icon/css3.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="icon/html5.png" />
+
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="icon/unity.png" />
 <img align="left" alt="blender" width="30px" style="padding-right:10px;" src="icon/blender.png" />  
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="icon/visualstudio.png" />
