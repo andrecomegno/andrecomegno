@@ -40,8 +40,6 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 <img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="icon/illustrator.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="icon/linux.png" />
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="icon/androidstudio.png" />
-</br>
 
-#
 
 [youtube]: https://youtube.com/formatc2pontosbr
