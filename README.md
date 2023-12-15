@@ -24,10 +24,12 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 <img align="left" alt="JavaScript" width="25px" src="icon/javascript.png" />
 <img align="left" alt="CSS" width="25px" src="icon/css3.png" />
 <img align="left" alt="HTML" width="25px" src="icon/html5.png" />
-
 <img align="left" alt="Unity" width="25px" src="icon/unity.png" />
-<img align="left" alt="blender" width="25px" src="icon/blender.png" />  
+<img align="left" alt="Blender" width="25px" src="icon/blender.png" /> 
 <img align="left" alt="VisualStudio" width="25px" src="icon/visualstudio.png" />
+<br/>
+
+###
 <img align="left" alt="VSCode" width="25px" src="icon/vscode.png" />
 <img align="left" alt="WordPress" width="25px" src="icon/wordpress.png" />
 <img align="left" alt="MySQL" width="25px" src="icon/mysql.png" />
