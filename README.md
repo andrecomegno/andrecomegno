@@ -7,7 +7,6 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 <div align="left">
 
 [![YouTube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/formatc2pontosbr?sub_confirmation=1)
-[![Visualizações no YouTube](https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php)](https://www.youtube.com/c/formatc2pontosbr)
 [![Total de Estrelas no GitHub](https://custom-icon-badges.demolab.com/github/stars/andrecomegno?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/andrecomegno?tab=repositories)
 [![Seguidores no Github](https://custom-icon-badges.demolab.com/github/followers/andrecomegno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/andrecomegno?tab=followers)
 
