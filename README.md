@@ -1,8 +1,8 @@
 # 🚀 André Comegno
 **`Programador (Desenvolvedor/Digital/Criador)`**
 
-Sou um programador jr Back-End, desenvolvedor de mobile android, jogos indie e criador de conteúdo. Todos os meus projetos são feitos a partir de uma ideia desde o planejamento até o design, resolvendo problemas e corrigindo bugs. 
-Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até a publicação. O conteúdo no meu canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil inscritos.
+Sou um programador jr Mobile, desenvolvedor Android. Todos os meus projetos são feitos a partir de uma ideia desde o planejamento até o design, resolvendo problemas e corrigindo bugs. Sou proprietário
+do canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil inscritos os vídeos são construídos com o mesmo princípio, desde a ideia, o planejamento, até a publicação.
 
 <div align="left">
 
@@ -11,7 +11,6 @@ Os vídeos são construídos da mesma forma, desde a ideia, o planejamento, até
 [![Seguidores no Github](https://custom-icon-badges.demolab.com/github/followers/andrecomegno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/andrecomegno?tab=followers)
 
 </div>
-
 
 ---
 
