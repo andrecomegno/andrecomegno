@@ -1,7 +1,7 @@
 # 🚀 André Comegno
 **`Programador (Desenvolvedor/Digital/Criador)`**
 
-Sou um programador jr Full Stack. Todos os meus projetos são feitos a partir de uma ideia desde o planejamento até o design, resolvendo problemas e corrigindo bugs. Sou proprietário
+Sou um Desenvolvedor Mobile jr. Todos os meus projetos são feitos a partir de uma ideia desde o planejamento até o design, resolvendo problemas e corrigindo bugs. Sou proprietário
 do canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil inscritos os vídeos são construídos com o mesmo princípio, desde a ideia, o planejamento, até a publicação.
 
 <div align="left">
