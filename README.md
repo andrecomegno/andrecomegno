@@ -37,6 +37,7 @@ do canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil ins
 <img align="left" alt="Figma" width="25px" src="icon/figma.png" />
 <img align="left" alt="Linux" width="25px" src="icon/linux.png" />
 <img align="left" alt="AndroidStudio" width="25px" src="icon/androidstudio.png" />
+<img align="left" alt="RoomDB" width="25px" src="icon/roomdb.png" />
 <br/>
 
 #
