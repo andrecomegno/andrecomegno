@@ -32,12 +32,12 @@ do canal do YouTube "[Format C2 Pontos][youtube]" com um pouco mais de 1 mil ins
 <img align="left" alt="WordPress" width="25px" src="icon/wordpress.png" />
 <img align="left" alt="MySQL" width="25px" src="icon/mysql.png" />
 <img align="left" alt="Firebase" width="25px" src="icon/firebase.png" />
+<img align="left" alt="RoomDB" width="25px" src="icon/roomdb.png" />
 <img align="left" alt="Photoshop" width="25px" src="icon/photoshop.png" />
 <img align="left" alt="illustrator" width="25px" src="icon/illustrator.png" />
 <img align="left" alt="Figma" width="25px" src="icon/figma.png" />
 <img align="left" alt="Linux" width="25px" src="icon/linux.png" />
 <img align="left" alt="AndroidStudio" width="25px" src="icon/androidstudio.png" />
-<img align="left" alt="RoomDB" width="25px" src="icon/roomdb.png" />
 <br/>
 
 #
